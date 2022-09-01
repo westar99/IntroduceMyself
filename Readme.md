@@ -34,7 +34,7 @@
 - 사용언어: Python
 - 사용툴: kakao open builder, pgAdmin,Postgresql,heroku
 - 내용: 법률퀴즈를 통해 법률용어에 보다 쉽게 접근하고 몰랐던 내용을 손쉽게 법률사전을 검색하여 공부하며 랭킹시스템(점수판)으로 승부욕을 자극.
-- 최종PDF
+- 최종PDF<https://github.com/westar99/IntroduceMyself/blob/main/law/ppt/%EB%B2%95%EB%A5%A0%ED%80%B4%EC%A6%88%ED%94%BC%ED%94%BC%ED%8B%B0.pdf>
 
 ### 2.   
 
